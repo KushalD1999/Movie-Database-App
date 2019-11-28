@@ -1,0 +1,153 @@
+body{
+    background-image: url(https://store-images.s-microsoft.com/image/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d.12c2c5b7-0d97-4635-9b57-8a35da0f4c79?mode=scale&q=90&h=1080&w=1920);
+    background-size: cover;
+}
+
+#resultBackground{
+    /*background-image: url("images/backgroundResult.jpeg");*/
+    background-attachment: fixed;
+}
+
+nav ul {
+    text-align: center;
+}
+
+nav ul li {
+
+    font-family: 'Quicksand', sans-serif;
+    color: #FF4145;
+    font-size: 4rem;
+    display: block;
+}
+
+.icon{
+    height: 130px;
+    width: 130px;
+}
+
+
+.headline{
+    font-family:'Didact Gothic', sans-serif;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.1);
+    color: grey;
+}
+
+#top{
+
+    background-color: rgba(0, 0, 0, 0.7);
+    /* background: linear-gradient(to bottom, rgba(255,255,255,0.9) 0%, rgba(0,0,0,0.6) 25%, rgba(0,0,0,0.1) 70%),radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898; */
+
+}
+
+#search-bar{
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: center;
+
+}
+
+.form-control{
+    border-radius:30px;
+    border-style: none;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    background: rgba(10, 10, 10, 0.9);
+    font-style: italic;
+    padding: 3%;
+}
+
+.btn{
+    font-family: 'Quicksand', sans-serif;
+    color:grey;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgba(0, 0, 0, 1.9);
+    border-radius: 19px;
+}
+
+
+/*------------------------------------------------------------------------*/
+.heading{
+    padding-top: 20px;
+    color: #FF4145;
+    text-align: center;
+}
+
+.card-img-top{
+
+
+}
+
+img{
+    height:65%;
+    width:50%;
+}
+
+.container-fluid{
+    padding-top: 3px;
+}
+
+.card-deck{
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom:50px;
+    padding-right: 150px;
+    padding-left: 250px;
+
+}
+
+.card{
+    background-color: #393e46;
+    max-width: 12rem;
+    max-height: 25rem;
+    transition: box-shadow .5s;
+    border-radius: 10px;
+    border-style: none;
+}
+
+.card:hover {
+    box-shadow: 0 0 15px rgba(255,255,255,.9);
+}
+
+.card-content{
+    padding: 5%;
+}
+
+
+.movie-title{
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    color: powderblue;
+    padding: 0px;
+}
+
+.movie-year{
+    font-size: 10px;
+    color: white;
+}
+
+.navbar{
+    background-color: black;
+    text-align: center;
+}
+
+.brand-img{
+    height: 35px;
+    width: 35px;
+}
+
+.navbar-brand{
+    color: #FF4145;
+    transition: text-shadow .5s;
+}
+
+.navbar-brand:hover{
+    text-shadow: 0 0 11px rgba(200,100,240,.6);
+
+}
+
+.c1{
+    display: none;
+}
