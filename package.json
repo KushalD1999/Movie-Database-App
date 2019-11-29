@@ -1,7 +1,7 @@
 {
-  "name": "cps530_movie_db",
+  "name": "expressJS_db",
   "version": "1.0.0",
-  "description": "Final Project for CPS530 - Movie Database System",
+  "description": "Database System",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
