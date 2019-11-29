@@ -4,7 +4,6 @@ body{
 }
 
 #resultBackground{
-    /*background-image: url("images/backgroundResult.jpeg");*/
     background-attachment: fixed;
 }
 
@@ -63,9 +62,10 @@ nav ul li {
     background-color: rgba(0, 0, 0, 1.9);
     border-radius: 19px;
 }
-
-
 /*----------------------------------------------------------------------------------*/
+/*displayPage.ejs StyleSheet*/
+/*----------------------------------------------------------------------------------*/
+
 .heading{
     padding-top: 20px;
     color: #FF4145;
@@ -94,8 +94,6 @@ img{
     padding-left: 250px;
 
 }
-
-
 
 .card{
     background-color: #393e46;
