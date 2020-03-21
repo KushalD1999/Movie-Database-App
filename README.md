@@ -1,1 +1,1 @@
-# movie_db_app_expressJS
+# Movie Database App (Node.JS/Express.JS)
